@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1070124075239",
+    "project_id": "metanoia-final-try",
+    "storage_bucket": "metanoia-final-try.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070124075239:android:94b44796c3836dbed37a42",
+        "android_client_info": {
+          "package_name": "com.asma_jehad.Metanoia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070124075239-6ir8pm8sop633fntfd29htrijve8243r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asma_jehad.Metanoia",
+            "certificate_hash": "5597b53ff81befeb6311dfb6205fe78ba38a155d"
+          }
+        },
+        {
+          "client_id": "1070124075239-plvus9ufrjt95ufa4o92kici65b27u9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asma_jehad.Metanoia",
+            "certificate_hash": "bdbf536fe8f691d3907bbcbfcb372c7819942fe7"
+          }
+        },
+        {
+          "client_id": "1070124075239-9dl02uqdj76npqdd83t02jrgkbdcc7ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZP-X-6UCuveXfIvhMWTHyDD2csLeoNyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070124075239-9dl02uqdj76npqdd83t02jrgkbdcc7ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
